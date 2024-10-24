@@ -3,3 +3,6 @@ ng serve
 
 En la carpeta del servidor usar:
 npm run dev
+
+**Tener iniciado antes el MongoDB 
+**Proximamente: Manual de Usario.pdf
