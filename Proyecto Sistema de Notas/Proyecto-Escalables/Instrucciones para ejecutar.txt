@@ -1,0 +1,5 @@
+en la carpeta del cliente usar:
+ng serve
+
+En la carpeta del servidor usar:
+npm run dev
